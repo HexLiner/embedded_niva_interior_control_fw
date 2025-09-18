@@ -1,5 +1,5 @@
 PRG            = niva_bag_control
-OBJ            = main.o systimer.o gpio_driver.o
+OBJ            = main.o gpio_driver.o
 MCU_TARGET     = attiny13
 OPTIMIZE       = -Os
 
